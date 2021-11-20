@@ -1,2 +1,2 @@
-# Capstone_Projrct_Stock_Closing_Price_Prediction
+# Capstone_Project_Stock_Closing_Price_Prediction
 Stock Price Prediction Regression Analysis
