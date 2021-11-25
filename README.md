@@ -1,2 +1,2 @@
 # Capstone_Project_Stock_Closing_Price_Prediction
-Stock Price Prediction Regression Analysis
+Yes_Bank_Stock_Close_Price Prediction Regression Analysis
